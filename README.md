@@ -48,3 +48,7 @@ Key preprocessing steps performed in Python:
 5. **Rename columns** consistently (e.g., `tapOutTime_Filled`, `corridorID_Filled`).
 
 
+## Interactive Dashboard
+Explore the interactive dashboard in Tableau below!
+
+👉 **[Understanding TransJakarta Public Transport Users — Dashboard Link](https://public.tableau.com/app/profile/lidia.priskila/viz/UnderstandingTransJakartaPublicTransportUsers/TransJakartaCustomer)**
